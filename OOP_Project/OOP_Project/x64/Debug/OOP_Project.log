@@ -1,0 +1,24 @@
+﻿  Boat.cpp
+  Car.cpp
+  Helicopter.cpp
+  Helicopter.h
+  Motorcycle.cpp
+  Sedan.cpp
+  SportCar.cpp
+  SportCar.h
+  SuperCar.cpp
+  SuperCar.h
+  Vehicle.cpp
+  VehicleDealership.cpp
+  VehicleDealership.h
+  DefaultSalary.cpp
+  DefaultSalary.h
+  main.cpp
+  Staff.cpp
+  Generating Code...
+x64\Debug\Helicopter.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\SportCar.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\SuperCar.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\VehicleDealership.obj : warning LNK4042: object specified more than once; extras ignored
+x64\Debug\DefaultSalary.obj : warning LNK4042: object specified more than once; extras ignored
+  OOP_Project.vcxproj -> C:\Users\dimag\OOP\source\repos\OOP_Project\x64\Debug\OOP_Project.exe
